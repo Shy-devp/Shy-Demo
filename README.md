@@ -1,3 +1,3 @@
 # Shy-Demo
 This is an demo repo
-Hi
+This is the demo command.
